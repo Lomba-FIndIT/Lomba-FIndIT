@@ -7,5 +7,7 @@ Masterskill merupakan sebuah platform edukasi yang berfokus pada pendidikan info
 2. Imroatus Sholihah
 3. Muhammad Zidane Nur Sya'bani
 
+* [link website](masterskill.vercel.app)
+
 * [repository backend](github.com/Lomba-FIndIT/masterskill-backend)
 * [repository frontend](github.com/Lomba-FIndIT/masterskill-frontend)
